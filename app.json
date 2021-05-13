@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "todoMB",
-    "slug": "todoMB",
+    "name": "tasks_reactnative",
+    "slug": "tasks_reactnative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
